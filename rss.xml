@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Fudbalska Akademija Galaktika</title>
+  <link>https://lazarmilisavljevic.github.io/Akademija-lazar/</link>
+  <description>Treninzi</description>
+  <item>
+    <title>Fudbalska Akademija Galaktika Galerija</title>
+    <link>https://lazarmilisavljevic.github.io/Akademija-lazar/galerija.html</link>
+    <description>Slike</description>
+  </item>
+  <item>
+    <title>Fudbalska Akademija Galaktika O nama</title>
+    <link>https://lazarmilisavljevic.github.io/Akademija-lazar/o-nama.html</link>
+    <description>Opis akademije</description>
+  </item>
+</channel>
+
+</rss>
